@@ -1,6 +1,6 @@
 {
 	"data": {
-		"filename": "sp500.csv",
+		"filename": "msft.csv",
 		"columns": [
 			"Close",
 			"Volume"
